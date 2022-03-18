@@ -17,4 +17,8 @@ new_list.append(4)
 
 var_new = [i for i in new_list if i != 3]
 ```
+Maths
 
+$$
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
+$$
